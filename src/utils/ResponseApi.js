@@ -7,4 +7,4 @@ class ResponseApi {
   }
 }
 
-module.exports = { ResponseApi };
+module.exports =  ResponseApi
